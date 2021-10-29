@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Try it here:
-
+Try it online [here](todo-list-calbertofilho.vercel.app)
 ### todo-list-calbertofilho.vercel.app
 
 ## Available Scripts
